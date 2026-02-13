@@ -79,10 +79,10 @@ for league in leagues:
 
 
           all_teams.append({
-            "Team ID": team_data.get("id", ""),
-            "Team Name": team_data.get("name", ""),
-            "National": team_data.get("national", False),  # boolean
-            "Country": team_data.get("country", {}).get("name", "") if team_data.get("national") else "",
+            "Team ID": team_data[0].get("id", ""),
+            "Team Name": team_data[0].get("name", ""),
+            "National": team_data[0].get("national", False),  # boolean
+            "Country": team_data[0].get("country", {}).get("name", "") if team_data[0].get("national") else "",
             "League ID": league_id  # optional, for joining later
           })
 
