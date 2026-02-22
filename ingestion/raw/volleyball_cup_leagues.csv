@@ -1,1 +1,138 @@
-
+League ID,Name,Type,Logo,Country ID,Country Name,Country Code
+226,African Championship,Cup,https://media.api-sports.io/volley/leagues/226.png,53,Africa,
+225,African Championship Women,Cup,https://media.api-sports.io/volley/leagues/225.png,53,Africa,
+228,African Club Championship,Cup,https://media.api-sports.io/volley/leagues/228.png,53,Africa,
+227,African Club Championship Women,Cup,https://media.api-sports.io/volley/leagues/227.png,53,Africa,
+2,Copa ACLAV,Cup,https://media.api-sports.io/volley/leagues/2.png,1,Argentina,AR
+1,Copa Master,Cup,https://media.api-sports.io/volley/leagues/1.png,1,Argentina,AR
+236,Asian Championship,Cup,https://media.api-sports.io/volley/leagues/236.png,54,Asia,
+238,Asian Championship U18,Cup,https://media.api-sports.io/volley/leagues/238.png,54,Asia,
+237,Asian Championship U19 Women,Cup,https://media.api-sports.io/volley/leagues/237.png,54,Asia,
+240,Asian Championship U20,Cup,https://media.api-sports.io/volley/leagues/240.png,54,Asia,
+242,Asian Championship U23,Cup,https://media.api-sports.io/volley/leagues/242.png,54,Asia,
+243,Asian Championship U23 Women,Cup,https://media.api-sports.io/volley/leagues/243.png,54,Asia,
+230,Asian Championship Women,Cup,https://media.api-sports.io/volley/leagues/230.png,54,Asia,
+241,Asian Club Championship,Cup,https://media.api-sports.io/volley/leagues/241.png,54,Asia,
+239,Asian Club Championship Women,Cup,https://media.api-sports.io/volley/leagues/239.png,54,Asia,
+229,Asian Cup,Cup,https://media.api-sports.io/volley/leagues/229.png,54,Asia,
+231,Asian Cup Women,Cup,https://media.api-sports.io/volley/leagues/231.png,54,Asia,
+233,Asian Games,Cup,https://media.api-sports.io/volley/leagues/233.png,54,Asia,
+232,Asian Games Women,Cup,https://media.api-sports.io/volley/leagues/232.png,54,Asia,
+234,Southeast Asian Games,Cup,https://media.api-sports.io/volley/leagues/234.png,54,Asia,
+235,Southeast Asian Games Women,Cup,https://media.api-sports.io/volley/leagues/235.png,54,Asia,
+8,Austria Cup,Cup,https://media.api-sports.io/volley/leagues/8.png,3,Austria,AT
+9,Austria Cup Women,Cup,https://media.api-sports.io/volley/leagues/9.png,3,Austria,AT
+22,Belgian Cup,Cup,https://media.api-sports.io/volley/leagues/22.png,6,Belgium,BE
+21,Belgian Cup Women,Cup,https://media.api-sports.io/volley/leagues/21.png,6,Belgium,BE
+17,Super Cup,Cup,https://media.api-sports.io/volley/leagues/17.png,6,Belgium,BE
+18,Super Cup Women,Cup,https://media.api-sports.io/volley/leagues/18.png,6,Belgium,BE
+29,Bulgaria Cup,Cup,https://media.api-sports.io/volley/leagues/29.png,9,Bulgaria,BG
+28,Bulgaria Cup Women,Cup,https://media.api-sports.io/volley/leagues/28.png,9,Bulgaria,BG
+30,Supercup,Cup,https://media.api-sports.io/volley/leagues/30.png,9,Bulgaria,BG
+41,Czech Cup,Cup,https://media.api-sports.io/volley/leagues/41.png,13,Czech-Republic,CZ
+40,Czech Cup Women,Cup,https://media.api-sports.io/volley/leagues/40.png,13,Czech-Republic,CZ
+181,Super Cup,Cup,https://media.api-sports.io/volley/leagues/181.png,13,Czech-Republic,CZ
+182,Super Cup Women,Cup,https://media.api-sports.io/volley/leagues/182.png,13,Czech-Republic,CZ
+45,Landspokal Cup,Cup,https://media.api-sports.io/volley/leagues/45.png,14,Denmark,DK
+44,Landspokal Cup Women,Cup,https://media.api-sports.io/volley/leagues/44.png,14,Denmark,DK
+55,EMV,Cup,https://media.api-sports.io/volley/leagues/55.png,16,Estonia,EE
+255,CEV Cup,Cup,https://media.api-sports.io/volley/leagues/255.png,55,Europe,
+256,CEV Cup Women,Cup,https://media.api-sports.io/volley/leagues/256.png,55,Europe,
+254,Challenge Cup,Cup,https://media.api-sports.io/volley/leagues/254.png,55,Europe,
+257,Challenge Cup Women,Cup,https://media.api-sports.io/volley/leagues/257.png,55,Europe,
+248,Champions League,Cup,https://media.api-sports.io/volley/leagues/248.png,55,Europe,
+251,Champions League Women,Cup,https://media.api-sports.io/volley/leagues/251.png,55,Europe,
+244,European Championships,Cup,https://media.api-sports.io/volley/leagues/244.png,55,Europe,
+245,European Championships Women,Cup,https://media.api-sports.io/volley/leagues/245.png,55,Europe,
+246,European League,Cup,https://media.api-sports.io/volley/leagues/246.png,55,Europe,
+247,European League Women,Cup,https://media.api-sports.io/volley/leagues/247.png,55,Europe,
+60,Coupe de France,Cup,https://media.api-sports.io/volley/leagues/60.png,18,France,FR
+61,Coupe de France Women,Cup,https://media.api-sports.io/volley/leagues/61.png,18,France,FR
+59,Supercup,Cup,https://media.api-sports.io/volley/leagues/59.png,18,France,FR
+62,Supercup Women,Cup,https://media.api-sports.io/volley/leagues/62.png,18,France,FR
+70,DVV Cup,Cup,https://media.api-sports.io/volley/leagues/70.png,19,Germany,DE
+73,DVV Cup Women,Cup,https://media.api-sports.io/volley/leagues/73.png,19,Germany,DE
+74,VBL Supercup,Cup,https://media.api-sports.io/volley/leagues/74.png,19,Germany,DE
+75,VBL Supercup Women,Cup,https://media.api-sports.io/volley/leagues/75.png,19,Germany,DE
+79,Greek Cup,Cup,https://media.api-sports.io/volley/leagues/79.png,20,Greece,GR
+78,League Cup,Cup,https://media.api-sports.io/volley/leagues/78.png,20,Greece,GR
+82,Hungarian Cup,Cup,https://media.api-sports.io/volley/leagues/82.png,21,Hungary,HU
+83,Hungarian Cup Women,Cup,https://media.api-sports.io/volley/leagues/83.png,21,Hungary,HU
+93,Coppa Italia A1,Cup,https://media.api-sports.io/volley/leagues/93.png,25,Italy,IT
+92,Coppa Italia A1 Women,Cup,https://media.api-sports.io/volley/leagues/92.png,25,Italy,IT
+94,Coppa Italia A2 Women,Cup,https://media.api-sports.io/volley/leagues/94.png,25,Italy,IT
+96,Coppa Italia A2-A3,Cup,https://media.api-sports.io/volley/leagues/96.png,25,Italy,IT
+91,Super Cup,Cup,https://media.api-sports.io/volley/leagues/91.png,25,Italy,IT
+95,Super Cup Women,Cup,https://media.api-sports.io/volley/leagues/95.png,25,Italy,IT
+112,Copa Nacional Women,Cup,https://media.api-sports.io/volley/leagues/112.png,33,Peru,PE
+116,Polish Cup,Cup,https://media.api-sports.io/volley/leagues/116.png,34,Poland,PL
+117,Polish Cup Women,Cup,https://media.api-sports.io/volley/leagues/117.png,34,Poland,PL
+114,Super Cup,Cup,https://media.api-sports.io/volley/leagues/114.png,34,Poland,PL
+115,Super Cup Women,Cup,https://media.api-sports.io/volley/leagues/115.png,34,Poland,PL
+122,Super Cup,Cup,https://media.api-sports.io/volley/leagues/122.png,35,Portugal,PT
+123,Taca de Portugal,Cup,https://media.api-sports.io/volley/leagues/123.png,35,Portugal,PT
+125,Taca de Portugal Women,Cup,https://media.api-sports.io/volley/leagues/125.png,35,Portugal,PT
+129,Federation Cup,Cup,https://media.api-sports.io/volley/leagues/129.png,37,Qatar,QA
+136,Cup of Siberia and Far East,Cup,https://media.api-sports.io/volley/leagues/136.png,39,Russia,RU
+138,Cup of Siberia and Far East Women,Cup,https://media.api-sports.io/volley/leagues/138.png,39,Russia,RU
+134,Russia Cup,Cup,https://media.api-sports.io/volley/leagues/134.png,39,Russia,RU
+135,Russia Cup Women,Cup,https://media.api-sports.io/volley/leagues/135.png,39,Russia,RU
+137,Victory Cup,Cup,https://media.api-sports.io/volley/leagues/137.png,39,Russia,RU
+142,Serbia Cup,Cup,https://media.api-sports.io/volley/leagues/142.png,40,Serbia,RS
+143,Serbia Cup Women,Cup,https://media.api-sports.io/volley/leagues/143.png,40,Serbia,RS
+144,Super Cup,Cup,https://media.api-sports.io/volley/leagues/144.png,40,Serbia,RS
+149,Slovenia Cup,Cup,https://media.api-sports.io/volley/leagues/149.png,42,Slovenia,SI
+150,Slovenia Cup Women,Cup,https://media.api-sports.io/volley/leagues/150.png,42,Slovenia,SI
+154,KOVO Cup,Cup,https://media.api-sports.io/volley/leagues/154.png,43,South-Korea,KR
+153,KOVO Cup Women,Cup,https://media.api-sports.io/volley/leagues/153.png,43,South-Korea,KR
+159,Copa del Rey,Cup,https://media.api-sports.io/volley/leagues/159.png,44,Spain,ES
+157,Super Cup,Cup,https://media.api-sports.io/volley/leagues/157.png,44,Spain,ES
+158,Super Cup Women,Cup,https://media.api-sports.io/volley/leagues/158.png,44,Spain,ES
+166,Champions Cup,Cup,https://media.api-sports.io/volley/leagues/166.png,48,Tajikistan,TJ
+167,Champions Cup Women,Cup,https://media.api-sports.io/volley/leagues/167.png,48,Tajikistan,TJ
+168,Super Cup,Cup,https://media.api-sports.io/volley/leagues/168.png,49,Turkey,TR
+169,Super Cup Women,Cup,https://media.api-sports.io/volley/leagues/169.png,49,Turkey,TR
+170,Turkish Cup,Cup,https://media.api-sports.io/volley/leagues/170.png,49,Turkey,TR
+171,Turkish Cup Women,Cup,https://media.api-sports.io/volley/leagues/171.png,49,Turkey,TR
+178,Ukrainian Cup,Cup,https://media.api-sports.io/volley/leagues/178.png,50,Ukraine,UA
+179,Ukrainian Cup Women,Cup,https://media.api-sports.io/volley/leagues/179.png,50,Ukraine,UA
+180,NVA,Cup,https://media.api-sports.io/volley/leagues/180.png,51,USA,US
+211,Boris Yeltsin Cup Women,Cup,https://media.api-sports.io/volley/leagues/211.png,52,World,
+218,Challenger Cup,Cup,https://media.api-sports.io/volley/leagues/218.png,52,World,
+219,Challenger Cup Women,Cup,https://media.api-sports.io/volley/leagues/219.png,52,World,
+222,Club Friendly,Cup,https://media.api-sports.io/volley/leagues/222.png,52,World,
+223,Club World Championship,Cup,https://media.api-sports.io/volley/leagues/223.png,52,World,
+224,Club World Championship Women,Cup,https://media.api-sports.io/volley/leagues/224.png,52,World,
+209,Grand Champions Cup,Cup,https://media.api-sports.io/volley/leagues/209.png,52,World,
+210,Grand Champions Cup Women,Cup,https://media.api-sports.io/volley/leagues/210.png,52,World,
+199,Hubert Wagner Memorial,Cup,https://media.api-sports.io/volley/leagues/199.png,52,World,
+202,Mediterranean Games,Cup,https://media.api-sports.io/volley/leagues/202.png,52,World,
+203,Mediterranean Games Women,Cup,https://media.api-sports.io/volley/leagues/203.png,52,World,
+200,Montreux Masters Women,Cup,https://media.api-sports.io/volley/leagues/200.png,52,World,
+183,Nations League,Cup,https://media.api-sports.io/volley/leagues/183.png,52,World,
+184,Nations League Women,Cup,https://media.api-sports.io/volley/leagues/184.png,52,World,
+189,Olympic Games,Cup,https://media.api-sports.io/volley/leagues/189.png,52,World,
+190,Olympic Games Women,Cup,https://media.api-sports.io/volley/leagues/190.png,52,World,
+195,Pan American Games,Cup,https://media.api-sports.io/volley/leagues/195.png,52,World,
+213,Pan American Games Women,Cup,https://media.api-sports.io/volley/leagues/213.png,52,World,
+206,Pan-American Cup,Cup,https://media.api-sports.io/volley/leagues/206.png,52,World,
+217,Pan-American Cup U20 Women,Cup,https://media.api-sports.io/volley/leagues/217.png,52,World,
+212,Pan-American Cup U21,Cup,https://media.api-sports.io/volley/leagues/212.png,52,World,
+215,Pan-American Cup U23,Cup,https://media.api-sports.io/volley/leagues/215.png,52,World,
+216,Pan-American Cup U23 Women,Cup,https://media.api-sports.io/volley/leagues/216.png,52,World,
+201,Pan-American Cup Women,Cup,https://media.api-sports.io/volley/leagues/201.png,52,World,
+221,Top Volley International Women,Cup,https://media.api-sports.io/volley/leagues/221.png,52,World,
+204,Universiade,Cup,https://media.api-sports.io/volley/leagues/204.png,52,World,
+205,Universiade Women,Cup,https://media.api-sports.io/volley/leagues/205.png,52,World,
+185,World Championship,Cup,https://media.api-sports.io/volley/leagues/185.png,52,World,
+193,World Championship U18 Women,Cup,https://media.api-sports.io/volley/leagues/193.png,52,World,
+192,World Championship U19,Cup,https://media.api-sports.io/volley/leagues/192.png,52,World,
+191,World Championship U20 Women,Cup,https://media.api-sports.io/volley/leagues/191.png,52,World,
+214,World Championship U21,Cup,https://media.api-sports.io/volley/leagues/214.png,52,World,
+208,World Championship U23,Cup,https://media.api-sports.io/volley/leagues/208.png,52,World,
+207,World Championship U23 Women,Cup,https://media.api-sports.io/volley/leagues/207.png,52,World,
+186,World Championship Women,Cup,https://media.api-sports.io/volley/leagues/186.png,52,World,
+188,World Cup,Cup,https://media.api-sports.io/volley/leagues/188.png,52,World,
+187,World Cup Women,Cup,https://media.api-sports.io/volley/leagues/187.png,52,World,
+198,World Grand Prix Women,Cup,https://media.api-sports.io/volley/leagues/198.png,52,World,
+194,World League,Cup,https://media.api-sports.io/volley/leagues/194.png,52,World,
